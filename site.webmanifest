@@ -1,0 +1,9 @@
+{"name":"Add to Cart",
+"short_name":"Add to Cart",
+"icons":[
+    {"src":"android-chrome-192x192.ico","sizes":"any","type":"image/x-icon"},
+    {"src":"android-chrome-512x512.ico","sizes":"512x512","type":"image/x-icon"}
+],
+"theme_color":"#EEF0F4",
+"background_color":"#EEF0F4",
+"display":"standalone"}
